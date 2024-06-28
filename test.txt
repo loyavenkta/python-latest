@@ -1,0 +1,6 @@
+TXT test file
+Purpose: Provide example of this file type
+Document file type: TXT
+Version: 1.0
+Remark:
+###################KALKI BLOCKBUSTER OPENING ##################################KALKI BLOCKBUSTER OPENING ##################################KALKI BLOCKBUSTER OPENING ###############
